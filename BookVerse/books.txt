@@ -1,0 +1,50 @@
+201,To Kill a Mockingbird,Harper Lee,Classic,5,5
+202,1984,George Orwell,Dystopian,4,4
+203,Atomic Habits,James Clear,Self-Help,6,6
+204,Sapiens,Yuval Noah Harari,History,3,3
+205,Rich Dad Poor Dad,Robert Kiyosaki,Finance,4,4
+206,The Psychology of Money,Morgan Housel,Finance,5,5
+207,Deep Work,Cal Newport,Productivity,4,4
+208,Educated,Tara Westover,Biography,3,3
+209,Becoming,Michelle Obama,Biography,4,4
+210,Man's Search for Meaning,Viktor Frankl,Philosophy,5,5
+211,Ikigai,Héctor García,Self-Help,4,4
+212,Zero to One,Peter Thiel,Business,5,5
+213,Steve Jobs,Walter Isaacson,Biography,4,4
+214,Elon Musk,Ashlee Vance,Biography,5,5
+215,Rework,Jason Fried,Business,3,3
+216,The Lean Startup,Eric Ries,Entrepreneurship,4,4
+217,Hooked,Nir Eyal,Marketing,3,3
+218,Start With Why,Simon Sinek,Leadership,5,5
+219,Thinking Fast and Slow,Daniel Kahneman,Psychology,4,4
+220,The Subtle Art of Not Giving a F*ck,Mark Manson,Self-Help,4,4
+221,Digital Minimalism,Cal Newport,Productivity,3,3
+222,The Art of War,Sun Tzu,Strategy,4,4
+223,Can't Hurt Me,David Goggins,Motivation,4,4
+224,Grit,Angela Duckworth,Psychology,4,4
+225,Algorithms to Live By,Brian Christian,Technology,4,4
+226,A Brief History of Time,Stephen Hawking,Science,4,4
+227,Cosmos,Carl Sagan,Science,5,5
+228,The Silent Patient,Alex Michaelides,Thriller,3,3
+229,The Midnight Library,Matt Haig,Fiction,4,4
+230,The Fault in Our Stars,John Green,Romance,4,4
+231,It Ends With Us,Colleen Hoover,Romance,4,4
+232,The Girl on the Train,Paula Hawkins,Mystery,3,3
+233,The 5 AM Club,Robin Sharma,Self-Help,4,4
+234,Life's Amazing Secrets,Gaur Gopal Das,Spirituality,4,4
+235,The Monk Who Sold His Ferrari,Robin Sharma,Spirituality,5,5
+236,Shantaram,Gregory David Roberts,Adventure,3,3
+237,The Kite Runner,Khaled Hosseini,Fiction,5,5
+238,A Thousand Splendid Suns,Khaled Hosseini,Fiction,4,4
+239,Wings of Fire,A.P.J. Abdul Kalam,Inspiration,5,5
+240,My Journey,A.P.J. Abdul Kalam,Biography,4,4
+241,The Theory of Everything,Stephen Hawking,Science,4,4
+242,The Code Book,Simon Singh,Cryptography,4,4
+243,The Man Who Knew Infinity,Robert Kanigel,Mathematics,3,3
+244,The Power of Now,Eckhart Tolle,Spirituality,4,4
+245,Awaken the Giant Within,Anthony Robbins,Motivation,4,4
+246,Cracking the Coding Interview,Gayle Laakmann,Programming,5,5
+247,Design Patterns,Erich Gamma,Programming,4,4
+248,The Pragmatic Programmer,Andrew Hunt,Programming,4,4
+249,Refactoring,Martin Fowler,Programming,3,3
+250,Domain-Driven Design,Eric Evans,Software Design,3,3
